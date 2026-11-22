@@ -1,0 +1,140 @@
+Agencies hiring creators & Bounty-style programmes - pay and entry evidence
+DERIVED TEXT COPY of a 26 Oct 2026 research PDF (layout flattened to text; user-addressed framing removed). Figures are what the sources advertised, read 26 Oct 2026; nothing here means acceptance or that test work is paid. Research only; nothing was applied to or signed up for.
+Filter used: UK or worldwide routes only, base above GBP 20 per video (above $26.69 at 1 GBP = $1.3344); commission-only, per-view-only and 'up to'-only offers are not counted as base. Count at the time: 1 route (JoinBrands) has a confirmed UK per-video base above GBP 20 net of its published fee; Demand Studios publishes rates above the bar but UK acceptance is unconfirmed (section 1). 2 more let creators set their own rate (section 2). 8 are hiring but publish no creator rates (section 3). Section 4 ranks them by ease of entry.
+
+
+1. Verified per-video base above £20, stated by the source itself (2)
+JoinBrands is the confirmed UK pay mechanism (UK floor net of its published fee). Demand Studios publishes its per-video rates but
+its UK acceptance is not confirmed - "Global" is its advertised availability, not a verified UK route; confirm UK before investing effort.
+
+ Route                Pay evidence                                  Getting in (from their own pages)         Where          Source
+
+ JoinBrands           Its help centre: "some jobs have a fixed      Free creator signup, then apply to        UK, US, CA, joinbrands.com/cre
+ Marketplace          base rate for each approved piece of          listed jobs; brands approve per job.      AU           ators/
+ programme            content" and every listing shows the          No follower minimum or test-video         marketplaces
+                      exact payout before you apply. UK UGC-        step is mentioned on the creator
+                      video jobs default to £50 with a £50 floor    pages checked.
+                      brands cannot go below; social-post
+                      campaigns default £80. Creators page:
+                      "Earn from $60+ per video". Amounts are
+                      before the platform fee: 20% on the free
+                      plan, so a £50 floor job nets about £40
+                      - still above the bar. Escrow; PayPal
+                      payout.
+ Demand               Publishes per-video rates in USD by           Its page header reads "Creator            Advertises     demandstudios.co/
+ Studios              niche on its creator page: talking head       Roster / Global" - advertised             "Global"; UK
+ Agency roster with   $45-100 (≈£33.72+), food & drink $60-         availability, not confirmed UK            acceptance
+ published rates      140, fitness $60-115, beauty/skincare         acceptance; no country list is            not
+                                                                    published. "Zero followers is fine",
+                      $60-130, real estate $75-150. "Get paid                                                 confirmed
+                                                                    phone camera is enough, they
+                      per video."
+                                                                    handle all editing. Requirements:
+                                                                    confident on camera, raw footage
+                                                                    within 24 hours, available for at least
+                                                                    4 shoots per month. No test video is
+                                                                    mentioned on the page.
+
+
+2. You set your own rate - mechanism verified, earnings not (2)
+Vidovo was dropped from this list: it publishes no country list and UK availability could not be confirmed against the UK/worldwide filter.
+
+ Route                Pay evidence                                   Getting in (from their own pages)         Where         Source
+
+ Influee              You set your own rates when applying to        Free app; profile in minutes using        30+           influee.co/gb/for-cr
+ Marketplace          brand campaigns. Its own average               samples of your existing work, then       countries     eators
+ programme (app)      claims: about $92 per video (≈£68.94) on       browse and apply. Its claim: 83% of       incl. UK
+                      the US page and "£98 per video" on the         new creators land a first paid project    (dedicated
+                                                                     within 14 days. Payment 5-10 days
+                      UK page, "$150+ per project" - averages                                                  UK page)
+                                                                     after brand approval.
+                      it advertises, not a guaranteed base.
+ Collabstr            "Your rates, your content, your terms."        Free to start; claim a username and       Global;       collabstr.com/creat
+ Marketplace (your    You list services at your own fixed prices,    list services - no application review     local-        or
+ own storefront)      so the base is whatever you set; brands        mentioned. Buyers find you through        currency
+                      buy at your listed price. Payment is           the marketplace; no follower minimum      payouts
+                                                                     is stated on the creator page.
+                      collected from the brand up front and paid
+                      out in your local currency.
+3. Secondary leads: hiring creators now, rates agreed per brief, amounts not published (8)
+These cannot be confirmed over £20 per video from public pages. Ask for the rate before committing to a brief.
+
+ Route                Pay evidence                                  Getting in (from their own pages)         Where           Source
+
+ The UGC              States typical rates of $100-500+ per         "No follower minimum", no fees, 1-        UK, US,         theugc.agency/cre
+ Agency               video (≈£74.94+) and shares the exact         minute application; claims matching       Canada,         ators/
+ (London)             rate for each brief upfront - its own claim   within an hour.                           Australia,
+ UK agency roster     of typical rates, not a published per-brief                                             Ireland,
+                      rate card.                                                                              Western
+                                                                                                              Europe (its
+                                                                                                              FAQ);
+                                                                                                              registered in
+                                                                                                              London
+ Vidsy (London)       Amounts not published. Its FAQ: "Will I       Apply to join the community; it says it   Global          vidsy.co/creator
+ Structured brief     definitely get paid? Yes! Every creator       focuses on "talent, not previous          community,
+ programme            invited to work on a brief gets paid."        experience or follower count". Note:      UK-based
+                      Shortlisted videos also receive bonuses.      creator forums describe it as
+                                                                    competitive.
+
+ Insense (UGC-        Fixed price agreed upfront per campaign       UGC-only accounts need no posting         Global (app-    help-creators.insen
+ only creator         before you start (its help centre);           to your own socials. Approval is a        based)          se.pro/how-to-join-i
+ route)               amounts vary by campaign and are not          manual review of a portfolio of your                      nsense-as-a-ugc-o
+ Marketplace          published. Payment released on brand          existing work (on-camera
+                                                                                                                              nly...
+                                                                    speaking/voice-over,
+ programme            approval.
+                                                                    lighting/audio/editing quality, no
+                                                                    filters). Reapplication allowed.
+
+ hypjam               Rate and usage licence agreed in writing      "No follower minimum" stated. Paid        UK +            hypjam.com/join
+ UK agency roster     before you film (its words); amounts not      briefs for UK and remote creators.        remote
+                      published. Separately runs a pay-per-         Apply via the join page; no test work
+                      view self-serve side (hypjam Create) -        is mentioned on the page.
+                      that side has no fixed base, so it is not
+                      counted here.
+ Nonsensical          "Paid for every piece of content you          Review is based on your on-camera         UK (studio  nonsensical.agenc
+ (Birmingham,         deliver, at a rate agreed before you film",   examples, "not your follower count"       in          y/tik-tok-presenter/
+ UK)                  paid monthly. Amounts not published.          (its words). Film at home on your own     Birmingham;
+ UK agency roster                                                   schedule, or its studio. 5-minute         remote
+                                                                    application.
+                                                                                                              filming)
+ UGC Agent            Paid on acceptance of your content,           Free to join, no upfront fees. Apply to   UK              ugcagent.co.uk/
+ UK                   weekly or monthly; amounts not                briefs from UK brands; directory
+ marketplace/agency   published.                                    listing lets brands find you.
+
+ TapLab               Not published. Briefs come from its           Simple application: your handle plus      UK              taplab.agency/man
+ UK agency roster     brand clients (it lists Question AI among     a line about what you make. Briefs                        agement/ugc-creat
+                      brands it has made content for).              are matched to you, not browsed.                          ors
+
+ Billo                Creator payout amounts are not                Sign up in the app; its FAQ: "No          UK, US,         billo.app/for-creator
+ Marketplace          published anywhere by Billo; you see          professional experience or social         Canada          s/
+ programme (app)      task payouts inside the app. Weekly           media presence is required." Its          only
+                      Stripe payout after brand approval (its       terms require you to be based in the
+                                                                    US, UK or Canada and 18+.
+                      help centre).
+
+4. Ease of entry, ranked - with the catch for each
+Ranked by how little stands between a creator and a first paid brief, using only the entry evidence on each row. Easy signup and easy
+earnings are different things; the catch is stated per rank.
+1. Collabstr - No application review is mentioned on its creator page - you list services and brands buy at your listed price. Caveat:
+easy to join is not easy to earn; brands must choose your listing.
+2. JoinBrands - Free signup and every job shows its exact payout before you apply, so there is no guessing; you still need each
+brand's approval per job, and the free plan takes 20%.
+3. Influee - Free app, profile from existing samples; its own stat says 83% of new creators land a first paid project within 14 days
+(advertised claim, not a promise).
+4. The UGC Agency - One-minute application, claims matching within an hour, UK-registered with a stated UK creator network.
+5. Demand Studios - No follower bar and published rates, but it asks the most commitment: confident on camera, 24-hour raw
+delivery, at least 4 shoots per month.
+6. UK rosters: hypjam, Nonsensical, UGC Agent, TapLab - Small human-reviewed rosters; entry is a short form plus your on-
+camera examples; how selective they are is not published.
+7. Insense (UGC-only) - Highest quality bar here: a manual portfolio review of your existing work before you see campaigns.
+8. Billo - Signup is easy and UK is eligible, but you cannot see what tasks pay until you are inside.
+9. Vidsy - Every invited creator gets paid (its FAQ), but creator forums describe briefs as competitive to win.
+
+ Read first. Pay figures are each site's own advertised claims, quoted as stated - not verified payouts, earnings promises, or a
+ promise of acceptance. "No follower minimum" and similar lines are the sites' claims. Eligibility and chances are not assessed
+ beyond the entry evidence shown; where a page mentions no test or portfolio step that is stated as "not mentioned", not as a
+ guarantee none exists. Net figures use each platform's own published fee (JoinBrands 20% free plan). Platforms paying only per
+ view, US-only platforms, individual job posts, and talent agencies for established creators were checked and filtered out. Nothing
+ here was applied to or signed up for; no outreach was sent.
+
